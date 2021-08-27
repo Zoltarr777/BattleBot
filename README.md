@@ -1,0 +1,2 @@
+# BattleBot
+Discordjs Battle Bot
